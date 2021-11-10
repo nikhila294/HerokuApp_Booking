@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-10T11:12:14 IST" name="Default suite" finished-at="2021-11-10T11:12:22 IST" duration-ms="8546">
+    <groups>
+    </groups>
+    <test started-at="2021-11-10T11:12:14 IST" name="Default test" finished-at="2021-11-10T11:12:22 IST" duration-ms="8546">
+      <class name="com.heroku.HerokuApp">
+        <test-method signature="getAccessToken_POST()[pri:0, instance:com.heroku.HerokuApp@2c35e847]" started-at="2021-11-10T11:12:14 IST" name="getAccessToken_POST" finished-at="2021-11-10T11:12:19 IST" duration-ms="5721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccessToken_POST -->
+        <test-method signature="createBooking_POST()[pri:1, instance:com.heroku.HerokuApp@2c35e847]" started-at="2021-11-10T11:12:19 IST" name="createBooking_POST" finished-at="2021-11-10T11:12:21 IST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking_POST -->
+        <test-method signature="GetBooking_GET()[pri:2, instance:com.heroku.HerokuApp@2c35e847]" started-at="2021-11-10T11:12:21 IST" name="GetBooking_GET" finished-at="2021-11-10T11:12:22 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBooking_GET -->
+      </class> <!-- com.heroku.HerokuApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
